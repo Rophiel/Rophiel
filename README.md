@@ -27,4 +27,4 @@ A website designed for makeup sellers, focusing on clean and functional design.
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📊 Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=buildingstats&theme=dark&border_radius=4&ring=EB6903)](https://git.io/streak-stats)
