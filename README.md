@@ -18,13 +18,7 @@ A website designed for makeup sellers, focusing on clean and functional design.
 [Check the repository](https://github.com/Rophiel/Website-for-Makeup-Sellers) for more details.
 
 ## 🔧 Technologies & Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,sql,windows)](https://skillicons.dev)
 
 ## 📊 Stats 
 ![Rophiel Stats](https://github-readme-stats.vercel.app/api?username=Rophiel&show_icons=true&theme=transparent)
