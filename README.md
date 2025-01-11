@@ -27,4 +27,4 @@ A website designed for makeup sellers, focusing on clean and functional design.
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📊 Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=buildingstats&theme=transparent&border_radius=4&ring=FF5F00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rophiel&theme=transparent&border_radius=4&ring=FF5F00)](https://git.io/streak-stats)
