@@ -22,4 +22,5 @@ A website designed for makeup sellers, focusing on clean and functional design.
 
 ## 📊 Stats 
 ![Rophiel Stats](https://github-readme-stats.vercel.app/api?username=Rophiel&show_icons=true&theme=transparent)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rophiel&layout=compact&theme=transparent)
 
