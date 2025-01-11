@@ -19,7 +19,7 @@ A website designed for makeup sellers, focusing on clean and functional design.
 
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c&logoColor=white)
