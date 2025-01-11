@@ -18,7 +18,7 @@ A website designed for makeup sellers, focusing on clean and functional design.
 [Check the repository](https://github.com/Rophiel/Website-for-Makeup-Sellers) for more details.
 
 ## 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,sql,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,py,sqlite,windows)](https://skillicons.dev)
 
 ## 📊 Stats 
 ![Rophiel Stats](https://github-readme-stats.vercel.app/api?username=Rophiel&show_icons=true&theme=transparent)
